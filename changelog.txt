@@ -1,0 +1,28 @@
+Patch v0.6.1:
+-Fixed 2016
+-Fixed room issues in 2018
+-Added Vault Clothing items to September 2018
+-September 2018 slightly more stable
+-Improved overall server speed
+-Fixed the wrongful ban issue
+
+Fifth public release of OpenRec, and the new biggest update to date.
+
+Supports:
+-December 25th 2016
+-October 19th 2017
+-May 30th 2018
+-September 27th 2018
+
+-Added 2016 Support
+-Added September 27th Support
+-Added Image Server (September 2018 only)
+-Added Custom Room Downloader (September 2018 only)
+-Slight UI Improvements
+-Tons of new APIs added in
+-Improved banning system
+
+Credits:
+@LucasOnDiscord#0210 - Adding potions
+@GabeTheFirst#7335 - Tester when my game was broken
+@andry6702#9812 - Discovered custom rooms for 2018
