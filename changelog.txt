@@ -11,7 +11,7 @@ Patch v0.1.0:
 
 First public release of RebornRec, Report bugs and give suggestions in the Discord server.
 
-Supports every build from 2016-2018, All builds currently available are found in the #builds channel inside the Discord server.
+Supports every build from 2016-2018, All builds currently available are in the #builds channel inside the Discord server.
 
 Credits:
 @tuckerisapizza#1356 - Creator of OpenRec, which is what RebornRec is based on.
