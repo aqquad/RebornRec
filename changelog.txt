@@ -14,4 +14,5 @@ First public release of RebornRec, Report bugs and give suggestions in the Disco
 Supports every build from 2016-2018, All builds currently available are in the #builds channel inside the Discord server.
 
 Credits:
+@andry6702#9812 - Helping with porting almost all of the custom rooms.
 @tuckerisapizza#1356 - Creator of OpenRec, which is what RebornRec is based on.
