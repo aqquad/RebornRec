@@ -1,18 +1,18 @@
-RebornRec 0.4.1 - the "AWESOME" update
-Improved support for skins for builds before late 2018 (skins actually now work in those builds)
-The server will now automatically re-detect the build version if it ever gets restarted while playing a build (in case it crashes or something similar)
-Quest chests in 2018 will now give tennis skirts just like 2017 (for parity (and more skirts))
-Added some community suggested words and some of my own aswell to charades (original ones still exist btw)
-Added a missing api required for july 2017 builds to work (curse of the campus witch is now possible)
-Updated the websocket so that the recnode build works (???)
-Added a water bottle as the weekly in 2018 (they put something in the water)
-Personal bubble should now be off by default in all builds instead of just 2018 (if this is problematic please tell me)
-Optimized the server a bit (server should be slightly faster now :D)
-Switching builds should be more stable (no more "not actually switching versions")
-Fixed saturday's third daily objective being broken
+RebornRec 0.5.1 - the "Whoops" update
+Fixed "Failed to download unlocked items" error, equipment should also now work in 2020 again!
+Added ^Gym, ^StuntRunnerBaseRoom, and ^RecCenterCustom to list of base rooms
+Added back "green guitar" to Charades words
 
-Supports every build from 2016-2018, All builds currently available are in the #builds channel inside the Discord server.
+Changes to "Manage Builds":
+-Renamed to "Build Manager"
+-You can now choose the file location for your builds in Build Manager Settings
+-Some polishing and fixes
+-List of downloadable builds has been reduced to only March 2020 (as patches for other versions get created, they will be added back)
+-Upgraded DepotDownloader version to 2.6.0 from 2.5.0
+-Added very experimental Mod Manager for builds
+-The Mod Manager allows you to add, toggle, and delete BepInEx plugins for the builds via the launcher
+-This will allow for mods that change up enemies, weapons, bindings, etc to easily be installed to builds by users
+-To use: Go to the Build Manager, go to Manage Builds, select a version already installed, go to Manage Mods, and install any mods you want, open the build and have fun!
 
 Credits:
-@andry6702#9812 - Helping with porting almost all of the custom rooms.
-@tuckerisapizza#1356 - Creator of OpenRec, which is what RebornRec is based on.
+@tuckerisapizza - Creator of OpenRec, which is what RebornRec is based on.
