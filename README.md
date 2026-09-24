@@ -1,4 +1,4 @@
-![MasonREC Banner](https://raw.githubusercontent.com/aqquad/RebornRec/refs/heads/main/RebornRecBanner.png)
+![MasonREC Banner](https://i.postimg.cc/52TyyYB3/MASONRECLOGO.png)
 
 # MasonREC — A Revival Project for Older Versions of Rec Room
 
