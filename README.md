@@ -1,16 +1,45 @@
-![Image](https://raw.githubusercontent.com/aqquad/RebornRec/refs/heads/main/RebornRecBanner.png)
-# RebornRec - Localhost Server Software to revive older versions of Rec Room
-## About RebornRec
-RebornRec is a locally hosted server for older versions of Rec Room ranging from 2016 to 2020, containing many extra features alongside being able to emulate Rec Room's old servers.
+![MasonREC Banner](https://i.postimg.cc/52TyyYB3/MASONRECLOGO.png)
 
-As of right now, RebornRec is not open-source, the files you see in the repo are files the server will download and use as it's running.
-## How do I use this server/that feature?
+# MasonREC — A Revival Project for Older Versions of Rec Room
 
-More info on getting the server running and certain features will be found on the [Wiki](https://github.com/aqquad/RebornRec/wiki).
+## About MasonREC
+
+**MasonREC** is a revival project focused on bringing back the experience of older versions of **Rec Room**, ranging from approximately **2016 to 2020**.
+
+We provide and host the **MasonREC servers**, while users connect to those servers through the **MasonREC client**.
+
+MasonREC includes server-side functionality designed to recreate aspects of the older Rec Room experience, along with additional features and tools.
+
+MasonREC is currently **not open-source**. Files included in this repository are files used or downloaded by the MasonREC client and server infrastructure while the service is running.
+
+## How Do I Use MasonREC?
+
+To use MasonREC, users will need the **MasonREC client**.
+
+The client connects to our hosted MasonREC servers and provides the necessary functionality for supported versions.
+
+More information about downloading the client, connecting to the servers, and using specific features will be available in our documentation.
+
+**Wiki:** Coming soon
+
 ## Disclaimer
 
-This project is not affiliated with [Rec Room](https://recroom.com) in any way, nor intends to infringe on their copyrights. Distributing old versions of Rec Room is copyright infringement, so that's why RebornRec does not come bundled with Rec Room at all.
-## Social Links
-[Discord, if you are in need of support or assistance](https://discord.gg/yWBNpcAQTf)
+MasonREC is an independent community project and is **not affiliated with, endorsed by, or sponsored by Rec Room or its developers**.
 
-[TikTok, because I could](https://www.tiktok.com/@rebornrec)
+MasonREC does not distribute Rec Room itself. Users are responsible for obtaining any required game files through legitimate means.
+
+All Rec Room trademarks, copyrights, and other intellectual property belong to their respective owners.
+
+## Social Links
+
+**Discord:** Coming soon
+
+**TikTok:** Coming soon
+
+## Infrastructure
+
+**We host and operate the MasonREC servers.**
+
+Users **do not host the MasonREC servers themselves**. Instead, the MasonREC client connects to the servers that we operate.
+
+Our goal is to recreate and preserve parts of the older Rec Room experience through our own hosted infrastructure and client.
